@@ -201,7 +201,7 @@ This user is successfully logged in but not in the tenant in which the applicati
 
 This user is successfully logged in and exists in the tenant but is not in a group that is assigned access to the application.
 \
-![user-not-assigned](./img/25-user-not-assigned.png)
+![user-not-assigned](./img/25-user-not-assigned-app.png)
 
 ### Debugging on Fortigate
 
