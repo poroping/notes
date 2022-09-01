@@ -101,7 +101,7 @@ Configure your SAML SP with the information we gathered previously:
 |`idp-single-logout-url` | `Login URL`|
 |`idp-cert` | Name of cert we uploaded|
 |`user-name`| `username` (or custom claim name)|
-|`groups`|`groups` (or custom claim name)|
+|`group-name`|`groups` (or custom claim name)|
 
 This can be done in the GUI from 7.x.x+ however I still find it easier to do in the CLI. In 6.4.x this will not ever appear in the GUI.
 ```
